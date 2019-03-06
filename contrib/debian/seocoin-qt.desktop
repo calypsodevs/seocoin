@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SEOCOIN
+Comment=SEOCOIN P2P Cryptocurrency
+Comment[fr]=SEOCOIN, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=SEOCOIN, eşten eşe kriptografik sanal para birimi
+Exec=seocoin-qt %u
+Terminal=false
+Type=Application
+Icon=seocoin128
+MimeType=x-scheme-handler/seocoin;
+Categories=Office;Finance;

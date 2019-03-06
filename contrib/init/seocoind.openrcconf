@@ -1,0 +1,26 @@
+# /etc/conf.d/seocoind: config file for /etc/init.d/seocoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/seocoin/seocoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/seocoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/seocoind.pid"
+
+# Where to write seocoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/seocoind"
+
+# User and group to own seocoind process
+#BITCOIND_USER="seocoin"
+#BITCOIND_GROUP="seocoin"
+
+# Path to seocoind executable
+#BITCOIND_BIN="/usr/bin/seocoind"
+
+# Nice value to run seocoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

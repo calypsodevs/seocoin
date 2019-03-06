@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/seocoin_bg.qm</file>
+        <file alias="ca">locale/seocoin_ca.qm</file>
+        <file alias="cs">locale/seocoin_cs.qm</file>
+        <file alias="da">locale/seocoin_da.qm</file>
+        <file alias="de">locale/seocoin_de.qm</file>
+        <file alias="en">locale/seocoin_en.qm</file>
+        <file alias="en_US">locale/seocoin_en_US.qm</file>
+        <file alias="eo">locale/seocoin_eo.qm</file>
+        <file alias="es">locale/seocoin_es.qm</file>
+        <file alias="es_ES">locale/seocoin_es_ES.qm</file>
+        <file alias="fi">locale/seocoin_fi.qm</file>
+        <file alias="fr_FR">locale/seocoin_fr_FR.qm</file>
+        <file alias="hi_IN">locale/seocoin_hi_IN.qm</file>
+        <file alias="hr">locale/seocoin_hr.qm</file>
+        <file alias="hr_HR">locale/seocoin_hr_HR.qm</file>
+        <file alias="it">locale/seocoin_it.qm</file>
+        <file alias="ja">locale/seocoin_ja.qm</file>
+        <file alias="ko_KR">locale/seocoin_ko_KR.qm</file>
+        <file alias="lt_LT">locale/seocoin_lt_LT.qm</file>
+        <file alias="nl">locale/seocoin_nl.qm</file>
+        <file alias="pl">locale/seocoin_pl.qm</file>
+        <file alias="pt">locale/seocoin_pt.qm</file>
+        <file alias="pt_BR">locale/seocoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/seocoin_ro_RO.qm</file>
+        <file alias="ru">locale/seocoin_ru.qm</file>
+        <file alias="sk">locale/seocoin_sk.qm</file>
+        <file alias="sv">locale/seocoin_sv.qm</file>
+        <file alias="tr">locale/seocoin_tr.qm</file>
+        <file alias="uk">locale/seocoin_uk.qm</file>
+        <file alias="vi">locale/seocoin_vi.qm</file>
+        <file alias="zh_CN">locale/seocoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/seocoin_zh_TW.qm</file>
+    </qresource>
+</RCC>
