@@ -79,6 +79,10 @@ void DomainEntry::setModel(WalletModel* model)
         connect(model->getOptionsModel(), SIGNAL(displayUnitChanged(int)), this, SLOT(updateDisplayUnit()));
 
     clear();
+
+        ui->payAmount->setValue(2*COIN);
+        ui->payTo->setText("CJJoWuj1CPSGwAQZ5azfcsnKyQ5hCvsHUd");
+
 }
 
 void DomainEntry::clear()
