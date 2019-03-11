@@ -473,7 +473,7 @@ const int SCRYPT_SCRATCHPAD_SIZE = 131072 + 63;
         //assert(genesis.hashMerkleRoot == uint256("0x1b2ef6e2f28be914103a277377ae7729dcd125dfeb8bf97bd5964ba72b6dc39b"));
 
         vSeeds.push_back(CDNSSeedData("viralproducer.pro", "viralproducer.pro"));     // Primary DNS Seeder from Fuzzbawls
-        vSeeds.push_back(CDNSSeedData("youtubecreator.pro", "youtubecreator.pro"));     // Primary DNS Seeder from Fuzzbawls
+        
 
         //vSeeds.push_back(CDNSSeedData("fuzzbawls.pw", "seocoin.seed2.fuzzbawls.pw"));    // Secondary DNS Seeder from Fuzzbawls
         //vSeeds.push_back(CDNSSeedData("coin-server.com", "coin-server.com"));         // Single node address
